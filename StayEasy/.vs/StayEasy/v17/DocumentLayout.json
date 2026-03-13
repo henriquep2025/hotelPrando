@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|c:\\users\\46681542883\\source\\repos\\hotelprando\\stayeasy\\stayeasy\\models\\dtos\\criarhoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|solutionrelative:stayeasy\\models\\dtos\\criarhoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|c:\\users\\46681542883\\source\\repos\\hotelprando\\stayeasy\\stayeasy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|solutionrelative:stayeasy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|c:\\users\\46681542883\\source\\repos\\hotelprando\\stayeasy\\stayeasy\\controllers\\hoteiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|solutionrelative:stayeasy\\controllers\\hoteiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|c:\\users\\46681542883\\source\\repos\\hotelprando\\stayeasy\\stayeasy\\controllers\\quartoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|solutionrelative:stayeasy\\controllers\\quartoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|c:\\users\\46681542883\\source\\repos\\hotelprando\\stayeasy\\stayeasy\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|solutionrelative:stayeasy\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|c:\\users\\46681542883\\source\\repos\\hotelprando\\stayeasy\\stayeasy\\data\\stayeasydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|solutionrelative:stayeasy\\data\\stayeasydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|c:\\users\\46681542883\\source\\repos\\hotelprando\\stayeasy\\stayeasy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|solutionrelative:stayeasy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|c:\\users\\46681542883\\source\\repos\\hotelprando\\stayeasy\\stayeasy\\migrations\\20260311140411_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1D179F-DB19-4ABD-9AD8-926707B4AC31}|StayEasy\\StayEasy.csproj|solutionrelative:stayeasy\\migrations\\20260311140411_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260311140411_init.cs",
+              "DocumentMoniker": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Migrations\\20260311140411_init.cs",
+              "RelativeDocumentMoniker": "StayEasy\\Migrations\\20260311140411_init.cs",
+              "ToolTip": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Migrations\\20260311140411_init.cs",
+              "RelativeToolTip": "StayEasy\\Migrations\\20260311140411_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:04:11.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoteisController.cs",
+              "DocumentMoniker": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Controllers\\HoteisController.cs",
+              "RelativeDocumentMoniker": "StayEasy\\Controllers\\HoteisController.cs",
+              "ToolTip": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Controllers\\HoteisController.cs",
+              "RelativeToolTip": "StayEasy\\Controllers\\HoteisController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:29:03.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuartosController.cs",
+              "DocumentMoniker": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Controllers\\QuartosController.cs",
+              "RelativeDocumentMoniker": "StayEasy\\Controllers\\QuartosController.cs",
+              "ToolTip": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Controllers\\QuartosController.cs",
+              "RelativeToolTip": "StayEasy\\Controllers\\QuartosController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAowEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:19:08.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Program.cs",
+              "RelativeDocumentMoniker": "StayEasy\\Program.cs",
+              "ToolTip": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Program.cs",
+              "RelativeToolTip": "StayEasy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:17:38.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CriarHotelDto.cs",
+              "DocumentMoniker": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Models\\DTOs\\CriarHotelDto.cs",
+              "RelativeDocumentMoniker": "StayEasy\\Models\\DTOs\\CriarHotelDto.cs",
+              "ToolTip": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Models\\DTOs\\CriarHotelDto.cs",
+              "RelativeToolTip": "StayEasy\\Models\\DTOs\\CriarHotelDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:16:07.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StayEasyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Data\\StayEasyDbContext.cs",
+              "RelativeDocumentMoniker": "StayEasy\\Data\\StayEasyDbContext.cs",
+              "ToolTip": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Data\\StayEasyDbContext.cs",
+              "RelativeToolTip": "StayEasy\\Data\\StayEasyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:14:03.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "StayEasy\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\Models\\Hotel.cs",
+              "RelativeToolTip": "StayEasy\\Models\\Hotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:13:14.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\appsettings.json",
+              "RelativeDocumentMoniker": "StayEasy\\appsettings.json",
+              "ToolTip": "C:\\Users\\46681542883\\source\\repos\\hotelPrando\\StayEasy\\StayEasy\\appsettings.json",
+              "RelativeToolTip": "StayEasy\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T12:09:48.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
